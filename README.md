@@ -2,15 +2,16 @@
 
 우아한테크러닝 4기 '나만의 노션만들기 (feat.시니어봇)' 를 학습하기 위한 저장소
 
-# Contents
+## Contents
 
 - [Tech] (#Tech)
 - [Mockup] (#Mockup)
 - 
 
-#Tech
+##Tech
 
-#Mockup
+
+##Mockup
 
 
 # Getting Started with Create React App
