@@ -4,14 +4,29 @@
 
 ## Contents
 
-- [Tech] (#Tech)
-- [Mockup] (#Mockup)
-- 
+- [Tech](#Tech)
+- [Need](#Need)
+- [Memo](#Memo)
 
-##Tech
+## Tech
+- Front : React / TypeScript
+- Back : Node.js
+
+## Need
+- React Study
+- TypeScript Study
+- Throw Question to member immediately
+
+## Memo
+   내가 생각하는 것들 (생각없이 일단 적어본다. 완성 후에는 지울 것이다.)
+   - 노션을 전체적으로 구현하기는 현실적으로 시간이 부족할 것 같다.
+   - 하여 가사나 글을 편리하게 작성할 수 있는 온라인 가사집의 형태를 기획해보려고 한다.
+   - 입력한 단어의 모음에 따라 유사 단어가 팝업으로 리스팅되었으면 한다.
+   - 맞춤법, 띄어쓰기 등을 필터링 해주는 시스템이 있으면 좋을 것 같다.
+   - 아래의 내용은 내가 아직 리액트 초보라 남겨둘 것이다. 하나하나 읽어봐야한다.
+   - ...to be continue
 
 
-##Mockup
 
 
 # Getting Started with Create React App
